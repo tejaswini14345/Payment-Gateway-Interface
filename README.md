@@ -4,9 +4,7 @@ A frontend payment-interface project completed as **Task 3 of The Sparks Foundat
 
 ## Overview
 
-The project provides a simple payment-oriented web interface built with HTML and supporting assets. The repository also includes a recorded project demonstration.
-
-## Tech Stack
+The project provides a simple payment-oriented web interface built with HTML and supporting assets. ## Tech Stack
 
 - HTML
 - CSS
